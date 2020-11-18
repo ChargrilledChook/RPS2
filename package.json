@@ -1,3 +1,30 @@
 {
-
+  "name": "rps_2",
+  "description": "A second version to brush up on JS syntax and implement new lessons learned.",
+  "version": "1.0.0",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChargrilledChook/RPS2.git"
+  },
+  "keywords": [
+    "Odin"
+  ],
+  "author": "Chook",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChargrilledChook/RPS2/issues"
+  },
+  "homepage": "https://github.com/ChargrilledChook/RPS2#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "prettier": "2.1.2"
+  }
 }
